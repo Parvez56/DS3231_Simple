@@ -19,10 +19,10 @@ void loop()
   
   // Load it with the date and time you want to set, for example
   //   Saturday the 3rd of October 2020 at 14:17 and 33 Seconds...
-  MyTimestamp.Day    = 3;
-  MyTimestamp.Month  = 10;
-  MyTimestamp.Year   = 20; 
-  MyTimestamp.Hour   = 14;
+  MyTimestamp.Day    = 5;
+  MyTimestamp.Month  = 31;
+  MyTimestamp.Year   = 26; 
+  MyTimestamp.Hour   = 18;
   MyTimestamp.Minute = 17;
   MyTimestamp.Second = 33;
   
